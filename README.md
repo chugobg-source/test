@@ -73,8 +73,8 @@ Each person can handle at most 1 heavy activity per week
 ## ⚠️ Feasibility Fallback
 - If there are not enough people (e.g. due to vacations):
 - The system detects infeasibility:
-# heavy slots = 6 (3 activities × 2 roles)
-# capacity = number of active people
+- heavy slots = 6 (3 activities × 2 roles)
+- capacity = number of active people
 - If infeasible:
 ✅ Always assign Primary
 ❌ Allow Secondary = None
