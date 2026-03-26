@@ -54,17 +54,17 @@ For each activity:
 Example:
 ```python
 vacations = {
-    1: ["Ivan"],
-    2: ["Ahmed"]
+    1: ["p1"],
+    2: ["p2"]
 }
 ```
 ---
 
 ## ⚖️ Heavy Activity Constraint
 Heavy activities:
-GWS
-Mars
-LPM
+a1
+a2
+a3
 Rule:
 Each person can handle at most 1 heavy activity per week
 
